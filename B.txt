@@ -1,6 +1,5 @@
 Hello
 HI
-<<<<<<< HEAD
 HCL
 Wipro
 Rahul is my Name
