@@ -1,6 +1,8 @@
 Hello
 HI
+<<<<<<< HEAD
 HCL
+Wipro
 Rahul is my Name
 Hello World
 Bangalore
