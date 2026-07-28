@@ -9,6 +9,12 @@ ooty
 Kashmir
 ootys
 JK
+<<<<<<< Updated upstream
 =======
 new working area
 ===========
+=======
+======
+75% completed:
+=========
+>>>>>>> Stashed changes
